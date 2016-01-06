@@ -52,4 +52,10 @@ public class MainActivity extends AppCompatActivity {
     public void PullDownProject(){
         int i = 1+1;
     }
+
+    private void AChangeWasMade(){
+        int i =1+1;
+        int ii = 2+2;
+        int iii = 3+3;
+    }
 }
